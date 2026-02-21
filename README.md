@@ -1,56 +1,65 @@
-# Hi, I'm Amari 👋  
-Aspiring Software Developer | Lifelong Learner | Tech Enthusiast
+# Amari — Software Developer
 
-I'm a dedicated developer currently building full-stack skills through hands-on projects, coding challenges, and bootcamp curriculum. I enjoy solving problems, creating clean user experiences, and continuously improving my craft.  
+I am an emerging software developer with strong foundational skills in JavaScript, React, SQL, and full-stack web development. I bring a disciplined, detail-oriented approach to problem-solving and a strong commitment to writing clean, maintainable code.
 
----
-
-### 🚀 About Me
-- 🌱 Currently learning **JavaScript, React, Node.js, SQL, and DBMS**
-- 💻 Building real projects like:
-  - Food Ordering App (HTML/CSS/JS + React version)
-  - SQL databases & queries (joins, keys, stored routines)
-  - Authentication systems and JSON-server backends
-- 🎯 Goal: Land a **paid software engineering internship** this year  
-- ☕ Fun Fact: Before tech, I worked as a barista at three different cafés — now I brew code instead.
+My goal is to secure a software engineering internship or entry-level role where I can contribute to real-world projects, expand my technical skill set, and grow within a team of experienced developers.
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:**  
-JavaScript, SQL, Python (beginner)
+## 🔧 Technical Skills
 
-**Frontend:**  
-HTML5, CSS3, Flexbox, Responsive Design, React.js, Bootstrap  
+**Languages & Core Skills**  
+- JavaScript (ES6+), SQL, HTML5, CSS3  
+- Object-Oriented Programming  
+- REST APIs, JSON, Fetch, Async/Await  
 
-**Backend:**  
-Node.js, Express.js, JSON-Server  
+**Frontend Development**  
+- React.js, Components, Props, State  
+- Bootstrap, Flexbox, Responsive Design  
+- UI Layout, Reusable Components  
 
-**Tools & Workflow:**  
-Git, GitHub, VS Code, npm, Postman, Chrome DevTools  
+**Backend Development**  
+- Node.js, Express.js  
+- JSON-Server, CRUD Operations  
+- Authentication Logic & Session Storage  
 
----
-
-### 📂 Featured Projects
-#### 🍽️ **Food Order App (HTML/CSS/JS)**
-A clean UI food ordering interface with categories, cuisines, and restaurants. Includes authentication and local storage.
-
-#### ⚛️ **Food Order App (React Edition)**
-Rebuilt using modern React components, props, mapping, and reusable UI patterns.
-
-#### 🗄️ **University SQL Database**
-Full relational database design using:
+**Databases**  
+- Relational database design  
 - Primary, foreign, candidate, alternate & surrogate keys  
-- Joins, group functions, and normalization  
-- CRUD operations and schema creation
+- Joins, aggregation, grouped queries  
+- Schema creation and normalization concepts  
 
-*(More projects coming soon…)*
+**Tools**  
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Chrome DevTools  
 
 ---
 
-### 📫 Connect With Me
-If you'd like to connect, collaborate, or chat about tech, feel free to reach out!
+## 📁 Selected Projects
+
+### **Food Ordering App (Vanilla JavaScript)**
+A complete front-end ordering interface featuring categories, cuisines, restaurants, user authentication, and dynamic rendering.
+
+### **Food Ordering App (React Version)**
+A modern re-implementation of the food ordering app built using React components, props, mapping, reusable UI cards, and clean styling.
+
+### **University SQL Database System**
+Full database schema designed with keys, constraints, and relational consistency. Includes complex queries using joins, group functions, and conditions.
 
 ---
 
-⭐ **Thanks for visiting my profile — stay tuned for more projects!**
+## 🎯 Career Goal
+
+To join a technical team as a software engineering intern or junior developer, where I can contribute meaningfully to projects while continuing to grow as a developer.
+
+---
+
+## 📫 Contact
+
+**Email:** *amariwills4@gmail.com*  
+**GitHub:** https://github.com/YOURUSERNAME  
+**Open to:** Internships, entry-level software roles, collaborative projects
+
+---
